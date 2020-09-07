@@ -1,4 +1,4 @@
-def bruh():
+def main():
   print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -8,4 +8,4 @@ def bruh():
   #print(quotes)
 
 if __name__== "__main__":
-  bruh()
+  main()
